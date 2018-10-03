@@ -1,16 +1,8 @@
 # express-metrics
 
-[![Build Status](https://travis-ci.org/dgaubert/express-metrics.svg?branch=master)](https://travis-ci.org/dgaubert/express-metrics)
+[![Build Status](https://travis-ci.org/andrew-js-wright/express-metrics.svg?branch=master)](https://travis-ci.org/andrew-js-wright/express-metrics)
 
 Express middleware for collecting and reporting metrics about response times.
-
-## Installation
-
-On project path:
-
-```
-npm install express-metrics --save
-```
 
 ## Example
 
