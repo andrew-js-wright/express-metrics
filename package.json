@@ -25,7 +25,7 @@
     "url": "git://github.com/dgaubert/express-metrics.git"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test/**/*.spec.js --require should --timeout=5000",
+    "test": "./node_modules/mocha/bin/mocha test/**/*.spec.js --require should --timeout=5000 --exit",
     "test:watch": "npm run test -- -w",
     "lint": "jshint *.js"
   },
